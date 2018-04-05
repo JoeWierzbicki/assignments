@@ -14,12 +14,14 @@ A. Undefined
 
 If you wanted to convert a Number to a String, how would you do that in JavaScript?
 
-A. .tostring()
+A. `.tostring()`
 
 What built-in function/method would you use to determine the length of a given String?
 
-A. "String".length
+A. `"String".length`
 
-Code
+Code Practice
 
-"Joe".charAt(0)
+Create a string that is equal to your name and use `charAt` to access the first letter of your name.
+
+`"Joe".charAt(0)`
