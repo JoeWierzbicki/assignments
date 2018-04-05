@@ -2,15 +2,15 @@ Questions
 
 Describe a `map` method.
 
-A.
+A. The map method allows us to iterate over each item in an array to transform it and return a new array without modifying the original.
 
 Describe a `filter` method.
 
-A.
+A. Allows us to iterate over an array and filters out any items based when the condition is false. It also does not affect the original.
 
 What is the difference between the `map()` and the `filter()` function?
 
-A.
+A. `filter` creates a new array with removed items. `map` creates a new array with changed items.
 
 Code Practice
 
